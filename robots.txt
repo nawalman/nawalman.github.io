@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nawalman.github.io/sitemap.html.gz
+Sitemap: https://nawalman.github.io/app/sitemap.html.gz
+Sitemap: https://nawalman.github.io/assets/sitemap.html.gz
+Sitemap: https://nawalman.github.io/css/sitemap.html.gz
+Sitemap: https://nawalman.github.io/includes/sitemap.html.gz
+Sitemap: https://nawalman.github.io/item/sitemap.html.gz
+Sitemap: https://nawalman.github.io/src/sitemap.html.gz
